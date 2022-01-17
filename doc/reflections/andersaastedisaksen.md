@@ -9,7 +9,7 @@
 With Hannah, Anders and Malene
 
 - Nice to work with GitHub/Git outside of Statistics Denmark's servers again (HELLO WORLD!)
-    + Couldn't find my old ssh key. GitHub doesn't allow pushing via ordinary security credentials (or I'm just stupid), so we need a resource on SSH or other methods of logging in. This is probably already covered in the beginner course.
+    + Couldn't find my old ssh key. GitHub doesn't allow pushing via ordinary security credentials (or I'm just stupid), so we need a resource on SSH/HTTPS/PAN or other methods of logging in. This is probably already covered in the beginner course.
 - Hard to define unmet needs of researchers, not knowing what tools are out there.
     + Hannah shared a list of workflow tools listing more than 50 tools even 4 years ago https://github.com/jdblischak/r-project-workflows (e.g. "targets" https://books.ropensci.org/targets/ is not on the list)
     + We probably need to hear what preliminary results the scoping review finds, in order to avoid reinventing the wheel.

@@ -1,31 +1,26 @@
 
+# package
 
-# package:
+<!-- badges: start -->
+<!-- badges: end -->
 
-This repository is intended as a tool to supplement the "Issues"-list on GitHub and help the package group share and discuss thoughts related to our work, as set out in issue 6 (https://github.com/science-collective/admin/issues/6)
+The goal of package is to ...
 
-# Brief description of folder and file contents
+## Installation
 
-TODO: As project evolves, add brief description of what is inside the data, doc and R folders.
+You can install the development version of package from [GitHub](https://github.com/) with:
 
-The following folders contain:
+``` r
+# install.packages("devtools")
+devtools::install_github("science-collective/package")
+```
 
-- `doc/reflections/`: logs of our experiences working on and collaborating in this project.
+## Example
 
+This is a basic example which shows you how to solve a common problem:
 
-# Installing project R package dependencies
+``` r
+library(package)
+## basic example code
+```
 
-If dependencies have been managed by using `usethis::use_package("packagename")`
-through the `DESCRIPTION` file, installing dependencies is as easy as opening the
-`package.Rproj` file and running this command in the console:
-
-    # install.packages("remotes")
-    remotes::install_deps()
-
-You'll need to have remotes installed for this to work.
-
-# Resource
-
-For more information on this folder and file workflow and setup, check
-out the [prodigenr](https://rostools.github.io/prodigenr) online
-documentation.
